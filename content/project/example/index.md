@@ -11,7 +11,7 @@ date: '2021-07-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: CASSI.jpg
+  caption: 'CASSI.jpg'
   focal_point: Smart
 
 #links:
