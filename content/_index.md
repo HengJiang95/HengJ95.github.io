@@ -213,7 +213,7 @@ sections:
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
-        city: Stanford
+        city: China
         region: CA
         postcode: '94305'
         country: United States
