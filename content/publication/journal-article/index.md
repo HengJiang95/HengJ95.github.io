@@ -6,11 +6,11 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-12-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-12-06T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Optics and Laser Technology"
+publication_short: "OLT"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Low-quality reconstruction is one main factor that greatly limits the development of snapshot compressive imaging (SCI) systems. The common algorithms usually unfold a 3D hyperspectral image (HSI) into a vector or matrix which inevitably corrupts the intrinsic structure of the HSI and insufficiently discovers its prior information. To fully exploit the underlying structures and internal correlations of the HSIs, this paper proposes a novel non-convex model based on Non-Local low-rank Tensor Approximation with Hyper-Laplacian priori (HL), named HL-NLTA, which effectively combines local and non-local similarity information from fused spectral and spatial perspectives. Specifically, a non-local low-rank tensor model based on the minimax concave plus (MCP) penalty and log sum (LS) penalty separately is developed which can simultaneously exploit two intrinsic properties of HSI, i.e., global correlation along the spectral domain (GCAS) and non-local self-similarity along the spatial domain (NSAS). Furthermore, the Hyper-Laplacian priori regularized through a non-convex ℓp (0 < p < 1) norm can preserve well the spectral and spatial structure. An optimization algorithm based on the alternating direction multiplier method (ADMM) framework is designed and accelerated by the Generalized shrinkage/ thresholding (GST) algorithm and the fast Fourier transform (FFT) to solve the new nonconvex model. Extensive simulation results on public datasets and experimental results on our real CASSI system indicate that the proposed method enables high-fidelity HSI reconstructions in terms of simultaneous spatial structure detail recovery and spectral preservation. These results verify the effectiveness of the proposed model for snapshot compressive imaging (e.g., Coded aperture snapshot spectral imaging CASSI).
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'CASSI2.jpg'
   focal_point: ""
   preview_only: false
 
