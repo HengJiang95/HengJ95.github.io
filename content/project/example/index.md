@@ -1,8 +1,10 @@
 ---
-title: Project
+title: Algorithms for CASSI reconstruction
 summary: Computational Optical Imaging (Snapshot compressive spectral Imaging).
 tags:
-  - Deep Learning, Inverse Probem, Hyperspectral Image Reconstruction
+  - Deep Learning
+  - Inverse Probem
+  - Hyperspectral Image Reconstruction
 date: '2021-07-01-2024.06.31'
 
 # Optional external URL for project (replaces project detail page).
