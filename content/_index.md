@@ -206,11 +206,11 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please contact me if you have any questions.
       # Contact (add or remove contact options as necessary)
-      email: Jiangh98mail2.susu.edu.cn
+      email: Jiangh98@mail2.susu.edu.cn
       #phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       address:
         street: No. 135, Xingang Xi Road
         city: Guangzhou
