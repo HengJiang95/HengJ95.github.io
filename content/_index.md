@@ -136,8 +136,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Optimization algorithm
+          tag: Optimization algorithm
         - name: Inverse Problem
           tag: Inverse Problem
         - name: Hyperspectral Imaging

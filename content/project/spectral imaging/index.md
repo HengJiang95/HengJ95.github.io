@@ -1,5 +1,5 @@
 ---
-title: Algorithms for CASSI reconstruction
+title: CASSI reconstruction
 summary: Computational Optical Imaging (Snapshot compressive spectral Imaging).
 tags:
   - Deep Learning
