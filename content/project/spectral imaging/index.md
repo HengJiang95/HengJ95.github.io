@@ -2,7 +2,8 @@
 title: CASSI reconstruction
 summary: Computational Optical Imaging (Snapshot compressive spectral Imaging).
 tags:
-  - Deep Learning
+  - Optimization Algorithm
+  - Snapshot Compressive Spectral Imaging
   - Inverse Probem
   - Hyperspectral Image Reconstruction
 date: '2021-07-01T00:00:00Z'
