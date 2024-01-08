@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "High-Fidelity compressive spectral image reconstruction through a novel Non-Convex Non-Local Low-Rank tensor approximation model"
 authors:
 - admin
 - Robert Ford

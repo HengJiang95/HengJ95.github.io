@@ -1,5 +1,5 @@
 ---
-title: 'A new algorithm for CASSI reconstruction'
+title: 'Joint spatial structural sparsity constraint and spectral low-rank approximation for snapshot compressive spectral imaging reconstruction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
