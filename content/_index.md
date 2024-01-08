@@ -173,6 +173,12 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Inverse Problem
+          tag: Inverse Problem
+        - name: Hyperspectral Imaging
+          tag: Hyperspectral Imaging
+        - name: Compressed Sensing
+          tag: Compressed Sensing
         - name: Other
           tag: Demo
     design:
@@ -190,7 +196,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: featured
+    id: CASSI
     content:
       title: Featured Publications
       filters:
