@@ -34,6 +34,7 @@ interests:
   - Artificial Intelligence
   - Computational Imaging
   - Hyperspectral Restoration
+  - Compressive Sensing
 
 # Education to show in About widget
 education:
