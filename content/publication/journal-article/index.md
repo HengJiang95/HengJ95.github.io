@@ -2,10 +2,9 @@
 title: "High-Fidelity compressive spectral image reconstruction through a novel Non-Convex Non-Local Low-Rank tensor approximation model"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2023-12-06T00:00:00Z"
 doi: ""
 
@@ -45,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'CASSI2.jpg'
+  caption: 'featured.jpg'
   focal_point: ""
   preview_only: false
 
